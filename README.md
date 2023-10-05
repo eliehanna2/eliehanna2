@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on "ToU", a mobile application for a software engineering project.<br>👯 I’m looking to collaborate on various other software engineering projects.<br>🤝 I’m actively researching new technologies.<br>🌱 I’m a Computer Science student at the Lebanese American University (LAU).<br>⚡ Aside from coding, I enjoy spending my free time at the gym or playing the keyboard.<br>💬 Feel free to check out my GitHub page to see some of the projects I've worked on. Don't hesitate to reach out to me if you have any questions or if you're interested in collaborating on a project together!
+🔭 I’m a software engineer.<br>🤝 I’m actively researching new technologies.<br>🌱 I’m a Computer Science student at the Lebanese American University (LAU).<br>⚡ Aside from coding, I enjoy spending my free time at the gym or playing the keyboard.<br>💬 Feel free to check out my GitHub page to see some of the projects I've worked on. Don't hesitate to reach out to me if you have any questions or if you're interested in collaborating on a project together!
 
 
 ## 🌐 Socials:
